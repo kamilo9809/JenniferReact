@@ -195,7 +195,7 @@ export const Home = () => {
             husband. I describe aspects of his personality, his daily routine,
             and some of his accomplishments, giving an overview of who he is. To
             complete this task, I used the Canvas tool because I enjoy the
-            variety of creative options it offers. .
+            variety of creative options it offers.
           </p>
           <video
             className="w-[600px] flex justify-center"
