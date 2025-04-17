@@ -153,14 +153,14 @@ export const Home = () => {
             📘 Different evidence developed in English
           </h2>
           <p className="text-lg text-gray-700 leading-relaxed mb-6">
-            Attached is a mind map as evidence for the activity
-            GA4-240202501-AA1-EV02. In this mind map, I present the set of
-            information, tools, and network of contacts I use to stay updated
-            and continuously learn within my professional and personal sphere.
-            This comprehensive approach to continuous learning and staying
-            updated enables me to achieve my goals, improve my skills, and be
-            prepared for the challenges of the current environment. The tool I
-            used to create the monthly map was Canvas.
+            I attached a mind map as evidence for the activity
+            GA4-240202501-AA1-EV02. In this mind map, I present the information,
+            tools, and network of contacts I use to stay updated and
+            continuously learn in both my professional and personal life. This
+            comprehensive approach to lifelong learning and staying current
+            allows me to achieve my goals, improve my skills, and be prepared
+            for the challenges of today’s world. The tool I used to create the
+            mind map was Canvas, due to its wide range of creative options.
           </p>
           <img
             src="/mapaMental.jpg"
@@ -169,10 +169,15 @@ export const Home = () => {
           />
 
           <p className="text-lg text-gray-700 leading-relaxed mb-6">
-            In the following evidence GA3-240202501-AA2-EV02, I present a video
-            showcasing a tourist spot where I talk about and show a bit of my
-            hometown, Barranquilla. On this occasion, I also used the tool
-            Canvas
+            In the evidence GA3-240202501-AA2-EV02, I present a video showcasing
+            a tourist spot where I talk about and show a bit of my hometown,
+            Barranquilla. I develop an oral presentation in English that
+            describes my region, highlighting its location, characteristics, and
+            reasons for its popularity. This activity aims to improve fluency
+            and pronunciation in English, as well as the ability to organize and
+            present information clearly and coherently. On this occasion, I also
+            used the Canvas tool because I enjoy its wide variety of templates,
+            which allow me to let my imagination run free.
           </p>
           <video
             className="w-[600px] flex justify-center"
@@ -186,9 +191,14 @@ export const Home = () => {
             Your browser does not support the video tag.
           </video>
           <p className="text-lg text-gray-700 leading-relaxed mb-6">
-            The following evidence is a video presentation of a character
-            GA2-240202501-AA1-EV02, in which I talked about my husband. I
-            created this evidence using Canvas
+            I attached a mind map as evidence for the activity
+            GA4-240202501-AA1-EV02. In this mind map, I present the information,
+            tools, and network of contacts I use to stay updated and
+            continuously learn in both my professional and personal life. This
+            comprehensive approach to lifelong learning and staying current
+            allows me to achieve my goals, improve my skills, and be prepared
+            for the challenges of today’s world. The tool I used to create the
+            mind map was Canvas, due to its wide range of creative options.
           </p>
           <video
             className="w-[600px] flex justify-center"
