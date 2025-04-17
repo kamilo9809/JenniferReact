@@ -7,7 +7,7 @@ export const Home = () => {
         <div className="max-w-4xl mx-auto flex flex-col items-center">
           <h1 className="text-4xl font-semibold text-pink-700 mb-6">Welcome to My Personal Page</h1>
           <video className="w-[200px] flex justify-center" width="640" height="360" autoPlay muted loop>
-            <source src="/public/jennifer.mp4" type="video/mp4"/>
+            <source src="/jennifer.mp4" type="video/mp4"/>
                 Your browser does not support the video tag.
           </video>
           <p className="text-lg text-gray-700 mb-8 leading-relaxed">
@@ -24,7 +24,7 @@ export const Home = () => {
       <section id="about" className="p-16 bg-pink-100">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl font-semibold text-pink-700 mb-6">🌎 A Little About Me</h2>
-          <div className="flex">
+          <div className="flex flex-col md:flex-row">
             <img src="https://cdn.pixabay.com/photo/2015/10/08/17/15/disney-world-978134_1280.jpg" alt="Travel Image" className="mx-auto w-[300px] rounded-lg shadow-lg mb-4 transition transform hover:scale-105"/>
             <img src="https://media.istockphoto.com/id/1266305627/photo/beach-in-santa-marta-colombia.jpg?s=2048x2048&w=is&k=20&c=cQ5yzsCBr7U1ZGfu5iGZgaaF5J8NKhwIXo2QbJrwd0s=" alt="Travel Image" className="mx-auto w-[300px] rounded-lg shadow-lg mb-4 transition transform hover:scale-105"/>
           </div>

@@ -3,7 +3,7 @@ export const Footer = () => {
   return (
     <div>
       <footer className="bg-pink-100 p-6 text-center">
-        <p className="text-pink-600">Made with ❤️ by Luis Camilo Rosania Rivera</p>
+        <p className="text-pink-600">Made with ❤️ by Jennifer Paola Mancilla Marriaga</p>
         <div className="flex justify-center space-x-6 mt-4">
           <a
             href="https://twitter.com"
