@@ -191,14 +191,11 @@ export const Home = () => {
             Your browser does not support the video tag.
           </video>
           <p className="text-lg text-gray-700 leading-relaxed mb-6">
-            I attached a mind map as evidence for the activity
-            GA4-240202501-AA1-EV02. In this mind map, I present the information,
-            tools, and network of contacts I use to stay updated and
-            continuously learn in both my professional and personal life. This
-            comprehensive approach to lifelong learning and staying current
-            allows me to achieve my goals, improve my skills, and be prepared
-            for the challenges of today’s world. The tool I used to create the
-            mind map was Canvas, due to its wide range of creative options.
+            In test GA2-240202501-AA1-EV02, I talk about a real person: my
+            husband. I describe aspects of his personality, his daily routine,
+            and some of his accomplishments, giving an overview of who he is. To
+            complete this task, I used the Canvas tool because I enjoy the
+            variety of creative options it offers. .
           </p>
           <video
             className="w-[600px] flex justify-center"
