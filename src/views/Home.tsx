@@ -94,16 +94,39 @@ export const Home = () => {
       {/* Evidence Explanation Section */}
       <section id="evidence" className="p-16 bg-pink-50">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-3xl font-semibold text-pink-700 mb-6">📘 Evidence Explanation</h2>
+          <h2 className="text-3xl font-semibold text-pink-700 mb-6">📘 Different evidence developed in English</h2>
           <img src="https://cdn.pixabay.com/photo/2019/03/10/03/36/reading-4045414_1280.jpg" alt="Travel Image" className="mx-auto w-[300px] rounded-lg shadow-lg mb-4 transition transform hover:scale-105"/>
+          <h3 className="text-lg text-gray-700 leading-relaxed mb-6 font-bold">
+          Evidence GA4-240202501-AA1-EV02 - Mind Map
+
+          </h3>
           <p className="text-lg text-gray-700 leading-relaxed mb-6">
-            This evidence consists of a personal and professional presentation written in English. It demonstrates my ability
-            to describe real-life experiences and future goals using appropriate vocabulary and structure. The text is
-            connected to the topics of critical thinking and media literacy, as it reflects thoughtful decision-making about
-            my studies, work, and values. Additionally, it indirectly touches on the topic of crime and punishment by showing
-            awareness of social responsibilities and ethical behavior, such as working at night to provide customer service
-            and being a committed citizen and mother.
+          Attached is a mind map as evidence for the activity GA4-240202501-AA1-EV02. In this mind map, I present the set of information, tools, and network of contacts I use to stay updated and continuously learn within my professional and personal sphere.
+
+This comprehensive approach to continuous learning and staying updated enables me to achieve my goals, improve my skills, and be prepared for the challenges of the current environment. The tool I used to create the monthly map was Canvas.
           </p>
+
+          <img src="/mapaMental.jpg" alt="Travel Image" className="mx-auto w-[300px] rounded-lg shadow-lg mb-4 transition transform hover:scale-105"/>
+
+
+          <p className="text-lg text-gray-700 leading-relaxed mb-6">
+          In the following evidence GA3-240202501-AA2-EV02, I present a video showcasing a tourist spot where I talk about and show a bit of my hometown, Barranquilla. On this occasion, I also used the tool Canvas
+
+          </p>
+
+          <video className="w-[200px] flex justify-center" width="640" height="360" autoPlay muted loop>
+            <source src="/VIDEOTURISTICO.mp4" type="video/mp4"/>
+                Your browser does not support the video tag.
+          </video>
+
+          <p className="text-lg text-gray-700 leading-relaxed mb-6">
+          The following evidence is a video presentation of a character (GA2-240202501-AA1-EV02), in which I talked about my husband. I created this evidence using Canvas
+
+          </p>
+          <video className="w-[200px] flex justify-center" width="640" height="360" autoPlay muted loop>
+            <source src="/presentacion.mp4" type="video/mp4"/>
+                Your browser does not support the video tag.
+          </video>
         </div>
       </section>
     </div>
