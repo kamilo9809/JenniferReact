@@ -154,7 +154,7 @@ export const Home = () => {
           </h2>
           <p className="text-lg text-gray-700 leading-relaxed mb-6">
             I attached a mind map as evidence for the activity
-            GA4-240202501-AA1-EV02. In this mind map, I present the information,
+            GA5-240202501-AA1-EV02. In this mind map, I present the information,
             tools, and network of contacts I use to stay updated and
             continuously learn in both my professional and personal life. This
             comprehensive approach to lifelong learning and staying current
